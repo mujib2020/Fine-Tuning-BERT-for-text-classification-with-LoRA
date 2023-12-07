@@ -22,6 +22,7 @@ $(800 x 1) + (1 x 3200) = 4000.$
 LoRa makes fine-tuning large language models quicker and less demanding on computing resources. It uses far fewer adjustments - significantly less than the 2,560,000 weights typically needed in full fine-tuning.
 
 Reference:
+
 	1. original paper: LoRA: Low-Rank Adaptation of Large Language Models (https://arxiv.org/abs/2106.09685)
 
 	2. https://medium.com/@karkar.nizar/fine-tuning-bert-for-text-classification-with-lora-f12af7fa95e4
